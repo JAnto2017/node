@@ -1,0 +1,18 @@
+1) ...OR CREATE A NEW REPOSITORY ON THE COMMAND LINE
+	echo "# node" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/JAnto2017/node.git
+	git push -u origin main	
+
+2) ...OR PUSH AN EXISTING REPOSITORY FROM THE COMMAND LINE
+	git remote add origin https://github.com/JAnto2017/node.git
+	git branch -M main
+	git push -u origin main
+
+3) ...OR IMPORT CODE FROM ANOTHER REPOSITORY
+	you can initialize this repository with code from a Subversion
+	import code.
+
