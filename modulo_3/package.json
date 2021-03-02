@@ -1,0 +1,14 @@
+{
+  "name": "ejemplonodejs",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto en Node.js RedUsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Antonio",
+  "license": "ISC",
+  "dependencies": {
+    "pretty-print": "^2.0.0"
+  }
+}
